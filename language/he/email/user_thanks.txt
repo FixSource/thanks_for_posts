@@ -1,0 +1,10 @@
+נושא: {THANKS_SUBG} — "{POST_SUBJECT}"
+
+שלום {POSTER_NAME},
+
+אתה מקבל הודעה זו מכיוון ש-  {USERNAME} {POST_THANKS} "{POST_SUBJECT}" at "{SITENAME}".
+
+אם ברצונך לראות את ההודעה, לחץ על הקישור הבא:
+{U_POST_THANKS}
+
+{EMAIL_SIG}
